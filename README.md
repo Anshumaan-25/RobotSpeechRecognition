@@ -16,7 +16,7 @@ This project implements real-time speech recognition using the Vosk API and PyAu
 - PyAudio
 - Vosk
 - NumPy
-
+  
 ## Installation
 
 1. Clone this repository:
